@@ -36,3 +36,7 @@
   - amazon web services
   - started with s3,ec2,rds 2006
   - now have 500+ prod. and services
+  - https://github.com/open-guides/og-aws
+  - https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html
+
+### aws cli
