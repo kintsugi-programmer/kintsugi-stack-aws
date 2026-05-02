@@ -11,6 +11,16 @@
 - also use docker too 
 - https://www.docker.com/
 
+```sh
+echo 'young developer yells at cloud'
+
+# Run the CLI commands to test your solution.
+# echo 'young developer yells at cloud'
+# Expecting exit code: 0
+# Expecting stdout to contain all of:
+# young developer yells at cloud
+```
+
 ### What Is “the Cloud”?
 - response to traditional prob.
   - earlier vps stuff
