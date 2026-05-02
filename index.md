@@ -12,3 +12,27 @@
 - https://www.docker.com/
 
 ### What Is “the Cloud”?
+- response to traditional prob.
+  - earlier vps stuff
+    - buy software
+    - buy hardware
+    - all tech. people code redundant for tools
+    - on-premises staff
+    - power,net,etc.
+- now 
+  - virtualization came
+    - https://en.wikipedia.org/wiki/Virtualization
+    - virtual machines inside one machine
+- the cloud is collection of virtualized computers that are owned and control by 3rd party and give to you over the internet
+  - they do all dirty work 
+  - for rent, not for permanent buy
+  - As they say, there is no cloud; it's just someone else's computer.
+- aws
+  - needed 
+    - mores servers
+    - redundant code
+    - ideal server sit time waste
+  - make centralized api based machine use services
+  - amazon web services
+  - started with s3,ec2,rds 2006
+  - now have 500+ prod. and services
