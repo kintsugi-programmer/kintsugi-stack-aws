@@ -3,6 +3,7 @@
 ## cloud computing
 
 ### Learn Cloud Infrastructure With AWS
+
 - know real cloud working here
 - use aws to understand 
 - https://aws.amazon.com/
@@ -22,6 +23,7 @@ echo 'young developer yells at cloud'
 ```
 
 ### What Is “the Cloud”?
+
 - response to traditional prob.
   - earlier vps stuff
     - buy software
@@ -50,3 +52,13 @@ echo 'young developer yells at cloud'
   - https://docs.aws.amazon.com/whitepapers/latest/aws-overview/amazon-web-services-cloud-platform.html
 
 ### aws cli
+
+```sh
+aws --version
+
+# Run the CLI commands to test your solution.
+# aws --version
+# Expecting exit code: 0
+# Expecting stdout to contain all of:
+# aws-cli/2.
+```
